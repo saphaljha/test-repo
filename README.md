@@ -1,13 +1,20 @@
 # test-repo
 test git repo for workflow
 
+-----------------
+view modified files
 
 git status
+-----------------------
+create a commit 
 
 git add file_path
 
 git commit -m "commit mssage"
+-----------------------
+Add and commit in one shot
 
-adding all files directly creating commit
+git commit -am "commit message"
 
-git commit -a "commit message"
+------------------------
+
